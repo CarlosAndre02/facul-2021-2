@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.exe
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.deps.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.runtimeconfig.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ref\ex-slide1-populacaoBarata.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\bin\Debug\net5.0\ex-slide1-populacaoBarata.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ref\ex-slide1-populacaoBarata.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide1-populacaoBarata\obj\Debug\net5.0\ex-slide1-populacaoBarata.genruntimeconfig.cache
