@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.exe
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.deps.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.runtimeconfig.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ref\ex-slide2-agendaTelefonica.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\bin\Debug\net5.0\ex-slide2-agendaTelefonica.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ref\ex-slide2-agendaTelefonica.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-agendaTelefonica\obj\Debug\net5.0\ex-slide2-agendaTelefonica.genruntimeconfig.cache
