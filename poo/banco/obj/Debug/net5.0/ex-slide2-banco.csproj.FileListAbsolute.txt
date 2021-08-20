@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.exe
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.deps.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.runtimeconfig.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ref\ex-slide2-banco.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\bin\Debug\net5.0\ex-slide2-banco.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ref\ex-slide2-banco.dll
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.pdb
+C:\Users\Usuário\dev-andre\poo-uvv\ex-slide2-banco\obj\Debug\net5.0\ex-slide2-banco.genruntimeconfig.cache
