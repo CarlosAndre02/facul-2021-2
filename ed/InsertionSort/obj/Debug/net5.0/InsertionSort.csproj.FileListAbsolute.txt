@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.exe
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.deps.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.runtimeconfig.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\ref\InsertionSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\bin\Debug\net5.0\InsertionSort.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\ref\InsertionSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\InsertionSort\obj\Debug\net5.0\InsertionSort.genruntimeconfig.cache
