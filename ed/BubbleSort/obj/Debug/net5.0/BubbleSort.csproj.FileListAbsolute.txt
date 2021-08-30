@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
