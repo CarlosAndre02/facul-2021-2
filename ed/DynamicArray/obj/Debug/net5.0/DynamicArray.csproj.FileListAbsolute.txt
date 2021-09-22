@@ -1,0 +1,16 @@
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.AssemblyInfo.cs
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.exe
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.deps.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.runtimeconfig.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.runtimeconfig.dev.json
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\ref\DynamicArray.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\bin\Debug\net5.0\DynamicArray.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\ref\DynamicArray.dll
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.pdb
+C:\Users\Usuário\dev-andre\facul-2021-2\ed\DynamicArray\obj\Debug\net5.0\DynamicArray.genruntimeconfig.cache
