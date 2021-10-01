@@ -66,8 +66,9 @@ public class DynamicArray {
   public void Clear() {
     Count = 0;
     Capacity = InitialCapacity;
-    int[] newArray = new int[Capacity];
-    array = newArray;
+    Array.Clear(array, 0, array.Length);
+
+    array = new int[Capacity];
   }
   
   public int IndexOf(int data) {
